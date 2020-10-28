@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-New Stuff
-Use the left arrow to go back!
+##Face Your Mountain!##
+_Use the *left arrow* to go back!_
